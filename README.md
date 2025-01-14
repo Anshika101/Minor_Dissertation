@@ -44,3 +44,8 @@ RF | 66.1 | 66.2 | 71.4 | 65.7
 LR | 63.1 | 64.3 | 68.6 | 62.0
 CNN | 67.1 | - | - | -
 TRANSFORMER | 63.6 | - | - | -
+## Conclusion
+This Dissertation demostrates that multimodal data, specifically the combination of text and audio, significantly enhances the performances of emotion through Machine Learning and Deep Learning models compared to individual modalities.
+The findings indicate the integrating both text and audio data leads to improved accuracy. Intrestingly, the study also reveals that simple Machine Learning models, uch as Random Forest or Logistic Regression, perform comparably to more complex Deep Learning Models suggesting that for certian tasks, the additional complexity of Deep Learning Models may not always yield substantial improvements or we need to incorporate some additional changes to deep learning models.
+These results underscore the potential of multimodal fusion for improving model accuracy while also highlighting the efficiency and practicality of using simpler machine learning algorithms in such tasks. 
+
