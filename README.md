@@ -13,8 +13,10 @@ For a more detailed explanation, please check the [report](https://github.com/An
 The [IEMOCAP](https://github.com/Anshika101/Minor_Dissertation/blob/main/IEMOCAP.pdf) dataset was used for all the experiments in this work.
 You can access the preprocessed data files from here:
 (https://www.dropbox.com/scl/fo/jdzz2y9nngw9rxsbz9vyj/h?rlkey=bji7zcqclusagzfwa7alm59hx&dl=0)
-## To run the code
-1.
+## To Run the Code
+1. Run `Emotion_Recognition_with_Multi_modal_data.ipynb` to train ML and DL classifiers for text
+2. Run `Emotion_Recognition_with_Multimodal_Data_2.ipynb` to train ML and DL classifiers for audio
+3. Run `Emotion_Recognition_using_multimodal_data_3.ipynb` to train ML and DL classifiers for audio+text
 ## Results
 Accuracy, F-score, Precision and Recall has been reported for the different experiments.
 
