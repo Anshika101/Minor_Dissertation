@@ -11,3 +11,5 @@ This project was conducted with significant guidance from prior research and ins
 For a more detailed explanation, please check the [report](https://github.com/Anshika101/Minor_Dissertation/blob/main/Report%20(1).pdf).
 ## Datasets
 The [IEMOCAP](https://github.com/Anshika101/Minor_Dissertation/blob/main/IEMOCAP.pdf) dataset was used for all the experiments in this work.
+You can access the preprocessed data files :
+(https://www.dropbox.com/scl/fo/jdzz2y9nngw9rxsbz9vyj/h?rlkey=bji7zcqclusagzfwa7alm59hx&dl=0)
