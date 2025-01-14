@@ -4,6 +4,7 @@ Identifying emotion from speech is a non-trivial task pertaining to the ambiguou
 The dataset is used to train two types of models:
 
 ML-based: Logistic Regression and Random Forest.
+
 DL-based: LSTM Classifier, CNN and Transfomer.
 
 This project was conducted with significant guidance from prior research and insights drawn from various peer-reviewed research papers particularly from -"MULTIMODAL SPEECH EMOTION RECOGNITION AND AMBIGUITY RESOLUTION", by [Gaurav Sahu](https://github.com/Anshika101/Minor_Dissertation/blob/main/Paper%20Review.pdf) which provided a strong theoretical and methodological foundation for the work.
