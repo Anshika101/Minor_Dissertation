@@ -13,6 +13,8 @@ For a more detailed explanation, please check the [report](https://github.com/An
 The [IEMOCAP](https://github.com/Anshika101/Minor_Dissertation/blob/main/IEMOCAP.pdf) dataset was used for all the experiments in this work.
 You can access the preprocessed data files from here:
 (https://www.dropbox.com/scl/fo/jdzz2y9nngw9rxsbz9vyj/h?rlkey=bji7zcqclusagzfwa7alm59hx&dl=0)
+## To run the code
+1.
 ## Results
 Accuracy, F-score, Precision and Recall has been reported for the different experiments.
 
